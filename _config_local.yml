@@ -4,3 +4,5 @@ email: lelis@oregonstate.edu
 description: > # this means to ignore newlines until "baseurl:"
   This is my first Jekyll site, made following the tutorial at http://www.taniarascia.com/make-a-static-website-with-jekyll/
 baseurl: "http://mobyderb.github.io"
+
+...
